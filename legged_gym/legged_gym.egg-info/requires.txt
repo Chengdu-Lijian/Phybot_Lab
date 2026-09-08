@@ -1,0 +1,14 @@
+isaacgym
+rsl-rl
+tqdm
+numpy==1.23.5
+opencv-python
+mujoco==3.2.3
+mujoco-python-viewer
+pytorch3d
+tensorboard
+pyquaternion
+protobuf==3.20.3
+pynput
+pyyaml
+matplotlib
